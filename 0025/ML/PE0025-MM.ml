@@ -14,4 +14,4 @@ fun fib 0 = 0 |
 fun big_fib n = if fromInt(size(toString(fib(n)))) >= 1000 then n else big_fib(n+1);
 
 
-val solution = big_fib 0 
+val solution = big_fib (0);
