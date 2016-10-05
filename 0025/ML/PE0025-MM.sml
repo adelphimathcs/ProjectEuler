@@ -1,8 +1,8 @@
 open IntInf;
 
 (* 
-	This is a very very very inefficient way of solving this problem. If you attempt to run this solution will 
-	take an extremely long time to complete. There are many optimizations that could be done on this but I wanted to leave a 
+	This is a very very very inefficient way of solving this problem. If you attempt to run this solution it will 
+	take an extremely long time to complete(more than you're willing to wait). There are many optimizations that could be done on this but I wanted to leave a 
 	brute force solution for now.
  *)
 
