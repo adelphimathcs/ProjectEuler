@@ -1,0 +1,1 @@
+foldl (op +) 0 (List.tabulate(1000, fn x => (x+1) * (x+1)));
